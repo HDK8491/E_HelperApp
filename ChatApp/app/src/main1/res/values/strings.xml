@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="veryfy_91123456789">Veryfy +91123456789</string>
+    <string name="enter_the_otp_code_to_verify_your_phon_number">Enter The OTP code To Verify Your Phon Number</string>
+    <string name="todo">TODO</string>
+
+    <string name="type_your_phone_number">Type your Phone Number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an">We will send you an</string>
+    <string name="one_time_password">One Time Password</string>
+    <string name="on_this_mobile_number">on this mobile Number...</string>
+</resources>
